@@ -1,0 +1,25 @@
+.products h2 {
+  margin-bottom: 20px;
+}
+
+.products ul {
+  /* list-style-type: square; */
+  padding-left: 30px;
+
+}
+
+.products li {
+  margin-bottom: 20px;
+}
+
+.products a {
+  text-decoration: none;
+  color: #333;
+  font-size: 25px;
+}
+
+.products a:hover {
+  padding-left: 5px;
+  color: black;
+  transition: 0.2s;
+}
